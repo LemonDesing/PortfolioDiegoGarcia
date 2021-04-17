@@ -40,6 +40,7 @@ section{
   font-size: 1.5em;
   font-weight: 500;
   margin-top: 70px;
+  padding-bottom: 10px;
 }
 
 .main .content h2 span{
@@ -613,7 +614,7 @@ body{
     font-size: 0.5em;
     font-weight: 200;
     line-height: 70px;
-    letter-spacing: .4px;
+    letter-spacing: .3px;
   }
   section{
     padding: 80px 20px;
