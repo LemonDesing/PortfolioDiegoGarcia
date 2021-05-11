@@ -370,6 +370,10 @@ body{
   width: 100%;
   background: #30dd6d;
 }
+.skills .content .col-right .bar .seo:before{
+  width: 100%;
+  background: #30dd6d;
+}
 .services .content{
   display: flex;
   justify-content: center;
