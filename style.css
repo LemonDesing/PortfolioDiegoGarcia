@@ -283,7 +283,7 @@ body{
   display: flex;
   justify-content: space-between;
   color: #fff;
-  margin-top: 15px;
+  margin-top: 0px;
   
 }
 
@@ -294,7 +294,7 @@ body{
   position: relative;
   width: 46%;
   font-size: 17px;
-  margin-top: 10px;
+  margin-top: 5px;
 }
 
 .skills .content .col-left .content-title{
@@ -371,6 +371,10 @@ body{
   background: #30dd6d;
 }
 .skills .content .col-right .bar .seo:before{
+  width: 100%;
+  background: #30dd6d;
+}
+.skills .content .col-right .bar .wordpress:before{
   width: 100%;
   background: #30dd6d;
 }
