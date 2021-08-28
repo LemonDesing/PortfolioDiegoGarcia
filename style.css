@@ -280,7 +280,7 @@ body{
 .skills .content{
   position: relative;
   width: 100%;
-  display: flex;
+  display:inline ;
   justify-content: space-between;
   color: #fff;
   margin-top: 0px;
@@ -295,16 +295,21 @@ body{
   width: 46%;
   font-size: 17px;
   margin-top: 5px;
+  
 }
 
 .skills .content .col-left .content-title{
-  margin-bottom: 20px;
+  margin-bottom: 0px;
+  justify-content: center;
+  align-items: center;
+  
 
 }
 
 .skills .content .col-right{
   position: relative;
-  width: 46%;
+  width: 100%;
+  
 }
 
 .skills .content .col-right .bar{
